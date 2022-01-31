@@ -23,7 +23,7 @@ export class DashboardComponent implements OnInit {
       legend: {
         display: false
       },
-
+      
       tooltips: {
         backgroundColor: '#f5f5f5',
         titleFontColor: '#333',
